@@ -20,6 +20,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("ie.wit.car_valeting_manager", appContext.packageName)
+        assertEquals("ie.wit.carbooking", appContext.packageName)
     }
 }
