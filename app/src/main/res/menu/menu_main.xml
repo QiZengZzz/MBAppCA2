@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ie.wit.activities.Valet">
+
+    <item
+        android:id="@+id/action_bookingList"
+        android:orderInCategory="100"
+        android:title="@string/show_bookings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_createBooking"
+        android:orderInCategory="100"
+        android:title="@string/book_a_car"
+        app:showAsAction="never" />
+</menu>

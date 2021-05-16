@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">CarBooking</string>
+    <string name="addNewAppointment">Create a new Booking here</string>
+    <string name="menu_addCar">Add New Car</string>
+    <string name="menu_deleteBooking">Delete</string>
+    <string name="menu_cancelBooking">Cancel</string>
+    <string name="carBrand">Car Brand Name</string>
+    <string name="carModel">Car Model</string>
+    <string name="go_to_calendar">Enter a Date</string>
+    <string name="dateShown">Date</string>
+    <string name="date">Date</string>
+    <string name="numberPlate">Number Plate</string>
+    <string name="addNewCar">Book this Car</string>
+    <string name="aboutus_title">Booking your car !!</string>
+    <string name="aboutus_message">Choose your car Today!\n\nGet It tomorrow!!</string>
+
+    <!--Following are for card_valet-->
+    <string name="dateHint">Date</string>
+    <string name="car_brand_hint">Car</string>
+    <string name="car_model_hint">Car Model</string>
+    <string name="license_plate_hint">License Plate</string>
+
+    <!--All below is stuff from the fragments lab-->
+    <!--todo change most of these-->
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Car Valeting Manager</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <!--Next few lines are important for the Nav_Drawer-->
+    <string name="book_a_car">Book a Car</string>
+    <string name="show_bookings">Show Bookings</string>
+    <string name="menu_report_all">All Bookings</string>
+    <string name="menu_favourites">Favourites</string>
+    <string name="menu_about">About Us</string>
+    <string name="action_book">Book this Car</string>
+
+
+    <!--Next Line is from the Networking Lab-->
+    <string name="messageLoading">Please Wait while the Bookings are Loading…</string>
+
+    <!--All below is taken from authentication lab-->
+    <string name="sign_out">Sign Out</string>
+    <string name="emailpassword_title_text">Please Login Below</string>
+
+    <string name="action_edit">Edit Booking</string>
+    <string name="select_profile_image">Select Profile Image</string>
+    <string name="favourites_title">Favourite Bookings</string>
+    <string name="sign_in_google">Sign In with Google</string>
+    <string name="sign_in_email">Sign In with Email</string>
+    <string name="sign_in_phone">Sign In with Phone</string>
+
+</resources>
